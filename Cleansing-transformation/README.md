@@ -1,0 +1,9 @@
+- AS Statement (Renaming Columns)
+- Combining columns
+- Commenting in SQL Script
+- Formatting of SQL statements
+- WHERE Clause
+- ORDER BY
+- LEFT JOIN
+- Case() Function
+- IsNull() Funtion
