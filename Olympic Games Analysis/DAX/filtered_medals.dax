@@ -1,0 +1,9 @@
+N° of Medals Registered = 
+CALCULATE(
+     [N° of Medals] , 
+    FILTER ('Olympic Games Data',
+            'Olympic Games Data'[Medal] = "Bronze" 
+            || 'Olympic Games Data'[Medal] = "Gold" 
+            || 'Olympic Games Data'[Medal] = "Silver"
+        )
+)
